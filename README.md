@@ -37,10 +37,10 @@ Jiyoon Kim, Dongju Kim, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, **Euichan He
 `Quadruped Robot` · `Human-Robot Interaction` · `Sensor-based Harness`  
 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890333)
 
-📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**  
-**Euichan Heo**, Chansik Hwang, Jaehoon An, Donghyeok Park, Woo-Sung Jung, and Inho Lee 
-*Submitted to IEEE/ASME AIM 2026*  
-`Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control'
+📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**<br>
+**Euichan Heo**, Chansik Hwang, Jaehoon An, Donghyeok Park, Woo-Sung Jung, and Inho Lee<br>
+*Submitted to IEEE/ASME AIM 2026*<br>
+`Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`<br>
 [Paper](#) · [Code](#) · [Project Page](#)
 
 <br>
