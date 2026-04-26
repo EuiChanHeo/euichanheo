@@ -29,6 +29,18 @@
 
 <br>
 
+## 📝 Publications
+
+📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**  
+Euichan Heo*, Chansik Hwang*, Jae..., Woosung...  
+*Submitted to IEEE/ASME AIM 2026*  
+
+`Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`
+
+[Paper](#) · [Code](#) · [Project Page](#)
+
+<br>
+
 ## 📫 Contact
 
 - Email: hec1013@gmail.com
