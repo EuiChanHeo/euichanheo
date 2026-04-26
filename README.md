@@ -41,7 +41,7 @@ Jiyoon Kim, Dongju Kim, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, **Euichan He
 **Euichan Heo**, Chansik Hwang, Jaehoon An, Donghyeok Park, Woo-Sung Jung, and Inho Lee<br>
 *Submitted to IEEE/ASME AIM 2026*<br>
 `Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`<br>
-[Paper](#) · [Code]([#](https://github.com/EuiChanHeo/resil)) · [Project Page](#)
+[Paper](#) · [Code](https://github.com/EuiChanHeo/resil) · [Project Page](#)
 
 <br>
 
