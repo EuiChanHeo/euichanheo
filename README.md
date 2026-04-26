@@ -35,7 +35,7 @@
 Jiyoon Kim, Dongju Kim, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, **Euichan Heo**, and Inho Lee  
 *Proceedings of the 2024 IEIE Summer Conference, 2024*  
 `Quadruped Robot` · `Human-Robot Interaction` · `Sensor-based Harness`  
-[DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890333)
+[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890333)
 
 📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**<br>
 **Euichan Heo**, Chansik Hwang, Jaehoon An, Donghyeok Park, Woo-Sung Jung, and Inho Lee<br>
