@@ -4,7 +4,7 @@
 - Bimanual Manipulation
 - Imitation Learning-based Control
     - Visuomotor Policy Learning
-    - Vision-Language-Action(VLA)
+    - Vision-Language-Action(VLA) Models
 
 <br>
 
@@ -28,7 +28,7 @@
 - Bimanual Manipulation
 - Imitation Learning-based Control
     - Visuomotor Policy Learning
-    - Vision-Language-Action(VLA)
+    - Vision-Language-Action(VLA) Models
 
 <br>
 
