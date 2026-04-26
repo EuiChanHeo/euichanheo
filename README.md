@@ -25,6 +25,7 @@
 ## 📚 Research Interests
 
 - Bimanual Manipulation
+    - Impedance Control
 - Imitation Learning-based Control
     - Visuomotor Policy Learning
     - Vision-Language-Action(VLA) Models
