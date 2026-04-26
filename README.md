@@ -31,11 +31,16 @@
 
 ## 📝 Publications
 
+📄 **4족 보행 로봇과 시각장애인의 상호작용을 위한 Strain Gauge 및 FSR 센서 기반 Harness 시스템 개발**  
+Jiyoon Kim, Dongju Kim, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, **Euichan Heo**, Inho Lee  
+*Proceedings of the 2024 IEIE Summer Conference, 2024*  
+`Quadruped Robot` · `Human-Robot Interaction` · `Sensor-based Harness`  
+[DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890333)
+
 📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**  
+**Euichan Heo**, Chansik Hwang, Jae..., Woosung...  
 *Submitted to IEEE/ASME AIM 2026*  
-
-`Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`
-
+`Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`  
 [Paper](#) · [Code](#) · [Project Page](#)
 
 <br>
