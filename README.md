@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - AI Robotics Engineer
-- Bimanual Manipulation, Imitation Learning-based Control, and a little bit Vision-Language-Action(VLA)
+- Bimanual Manipulation, Imitation Learning-based Control, Visuomotor Policy Learning, and Vision-Language-Action(VLA)
 
 <br>
 
@@ -24,6 +24,7 @@
 
 - Bimanual Manipulation
 - Imitation Learning-based Control
+- Visuomotor Policy Learning
 - Vision-Language-Action(VLA)
 
 <br>
