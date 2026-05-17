@@ -29,7 +29,7 @@
 
 ## 📝 Publications
 
-📄 **4족 보행 로봇과 시각장애인의 상호작용을 위한 Strain Gauge 및 FSR 센서 기반 Harness 시스템 개발**  
+📄 **Development of Strain Gauge-Based and FSR Sensor-Based Harness System for Interaction between Quadruped Robot and the Blind**  
 Jiyoon Kim, Dongju Kim, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, **Euichan Heo**, and Inho Lee  
 *Proceedings of the 2024 IEIE Summer Conference, 2024*  
 `Quadruped Robot` · `Human-Robot Interaction` · `Sensor-based Harness`  
