@@ -37,13 +37,13 @@ Jiyoon Kim, Dongju Kim, **Euichan Heo**, Yonghoon Yang, Dongyoung Lee, Jeongmin 
 
 📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**<br>
 **Euichan Heo**, Chansik Hwang, Jaehoon An, Donghyeok Park, Woo-Sung Jung, and Inho Lee<br>
-*[Accepted] IEEE/ASME AIM 2026*<br>
+*[Accepted] IEEE/ASME International Conference on Advanced Intelligent Mechatronics(AIM) 2026*<br>
 `Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`<br>
 [Paper](#) · [Code](https://github.com/EuiChanHeo/resil) · [Project Page](#)
 
 📄 **Optimization-Based Imitation Learning for Stable Action Generation**<br>
 **Euichan Heo**, Chansik Hwang, Jaehoon An, and Inho Lee<br>
-*[Submitted] Journal of ICROS*<br>
+*[Submitted] Journal of Institute of Control, Robotics and Systems(ICROS)*<br>
 `Imitation Learning` · `Quadratic Programming` · `Constrained Policy Learning` · `Stable Action Generation` · `Robotic Manipulation`<br>
 [Paper](#) · [Code](#) · [Project Page](#)
 
