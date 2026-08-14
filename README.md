@@ -45,4 +45,4 @@ Jiyoon Kim, Dongju Kim, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, **Euichan He
 
 ## 📫 Contact
 
-- Email: hec1013@gmail.com
+- Email: hec1013(at)gmail.com
