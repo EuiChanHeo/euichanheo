@@ -24,6 +24,8 @@
 - Imitation Learning-based Control
     - Visuomotor Policy Learning
     - Vision-Language-Action(VLA) Models
+- Constrained Policy Learning
+    - QP Fine-tuning
 
 <br>
 
