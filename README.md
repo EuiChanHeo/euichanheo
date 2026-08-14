@@ -41,6 +41,12 @@ Jiyoon Kim, Dongju Kim, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, **Euichan He
 `Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`<br>
 [Paper](#) · [Code](https://github.com/EuiChanHeo/resil) · [Project Page](#)
 
+📄 **Optimization-Based Imitation Learning for Stable Action Generation**<br>
+**Euichan Heo**, Chansik Hwang, Jaehoon An, and Inho Lee<br>
+*[Submitted] Journal of ICROS*<br>
+`Imitation Learning` · `Quadratic Programming` · `Constrained Policy Learning` · `Stable Action Generation` · `Robotic Manipulation`<br>
+[Paper](#) · [Code](#) · [Project Page](#)
+
 <br>
 
 ## 📫 Contact
