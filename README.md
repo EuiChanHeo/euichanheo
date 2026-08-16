@@ -2,8 +2,6 @@
 
 - AI Robotics Engineer<br>
 
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="left">
@@ -17,8 +15,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
-<br>
-
 ## 📚 Research Interests
 
 - Bimanual Manipulation
@@ -28,8 +24,6 @@
     - Vision-Language-Action(VLA) Models
 - Constrained Policy Learning
     - QP Fine-tuning
-
-<br>
 
 ## 📝 Publications
 
