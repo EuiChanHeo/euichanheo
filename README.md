@@ -39,7 +39,7 @@ Jiyoon Kim, Dongju Kim, **Euichan Heo**, Yonghoon Yang, Dongyoung Lee, Jeongmin 
 
 📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**<br>
 **Euichan Heo**, Chansik Hwang, Jaehoon An, Donghyeok Park, Woo-Sung Jung, and Inho Lee<br>
-*IEEE/ASME International Conference on Advanced Intelligent Mechatronics(AIM) 2026*<br>
+*IEEE/ASME International Conference on Advanced Intelligent Mechatronics(AIM), 2026*<br>
 `Bimanual Manipulation` · `Imitation Learning` · `Residual QP` · `Force-aware Control`<br>
 [Paper](#) · [Code](https://github.com/EuiChanHeo/resil) · [Project Page](#)
 
