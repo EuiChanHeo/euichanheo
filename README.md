@@ -33,8 +33,8 @@
 
 📄 **Development of Strain Gauge-Based and FSR Sensor-Based Harness System for Interaction between Quadruped Robot and the Blind**  
 Jiyoon Kim, Dongju Kim, **Euichan Heo**, Yonghoon Yang, Dongyoung Lee, Jeongmin Lee, and Inho Lee
-*Proceedings of the 2024 IEIE Summer Conference, 2024*  
-`Quadruped Robot` · `Human-Robot Interaction` · `Sensor-based Harness`  
+*Proceedings of the 2024 IEIE Summer Conference, 2024*<br>
+`Quadruped Robot` · `Human-Robot Interaction` · `Sensor-based Harness`<br>
 [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890333)
 
 📄 **Residual QP-based Imitation Learning for Cooperative Bimanual Manipulation**<br>
