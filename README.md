@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/RaiSim-5A2CA0?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
-<br>
 
 ## 📚 Research Interests
 
