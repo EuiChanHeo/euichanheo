@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- AI Robotics Engineer<br>
+- Robotics & AI Researcher<br>
 
 ## 🛠️ Tech Stack
 
